@@ -1,0 +1,55 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGLSample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  cylinder.cpp
+  shader.cpp
+  ShapeGenerator.cpp
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(33,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(36,28): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(37,28): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(52,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(54,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(98,37): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(99,37): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(100,26): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Erik Wilhelm CS499 Enhancment 1.cpp
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\shader.h(59,34): warning C4101: 'e': unreferenced local variable
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Erik Wilhelm CS499 Enhancment 1.cpp(710,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Erik Wilhelm CS499 Enhancment 1.cpp(812,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Erik Wilhelm CS499 Enhancment 1.cpp(828,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Erik Wilhelm CS499 Enhancment 1.cpp(947,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Erik Wilhelm CS499 Enhancment 1.cpp(1026,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Erik Wilhelm CS499 Enhancment 1.cpp(1060,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Erik Wilhelm CS499 Enhancment 1.cpp(1061,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Erik Wilhelm CS499 Enhancment 1.cpp(1065,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Erik Wilhelm CS499 Enhancment 1.cpp(1066,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Erik Wilhelm CS499 Enhancment 1.cpp(1067,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Erik Wilhelm CS499 Enhancment 1.cpp(1068,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  staticMesh3D.cpp
+  staticMeshIndexed3D.cpp
+  Texture.cpp
+  vboindexer.cpp
+  vertexBufferObject.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLSample.vcxproj -> C:\Users\Erik\Desktop\CS-330-T4522 Comp Graphic and Visualization 22EW4\Module 3\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Debug\Erik_Wilhelm_Enhancement_1.exe
