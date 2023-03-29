@@ -19,3 +19,5 @@ Outcomes: Better image creation, updates to colors, textures, showing lighting r
 
    
 [Link to Enhancement_1 Project](/Enhancement_1)
+
+[second try at link](https://github.com/Erik-W775/Erik-W775.github.io/tree/main/Enhancement_1)
