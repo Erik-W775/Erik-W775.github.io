@@ -23,3 +23,21 @@ Course Outcomes found in Enhancement 1: In this artifact enhancement, I employed
 [Link to Enhancement_1 Project](https://github.com/Erik-W775/Erik-W775.github.io/tree/main/Enhancement_1)
 
 ---
+
+---
+![Image from Enhancement_2](/Slide_Show_Enhancement2/enhancement_2.jpg)
+
+### ***Artifact 2 Enhancement*** 
+
+The artifact that I selected for this enhancement is from CS-250 Software Development Lifecycle that I took in April of 2020. The program was intended to scroll through multiple slides providing images of “wellness” vacation destinations as a first stage to building a website (website was not in the scope but described in the course prompt).
+
+---
+
+***Enhancement Outcome***
+
+Enhancements: Updated Ide and integrated code, debugged slideshow functionality, added button with functionality to link to websites or external links
+
+Course Outcomes found in Enhancement 2: This artifact through enhancement and assessment shows that I have employed strategies for building a collaborative environment by incorporating in-line comments with sufficient insight into the intention of code. I have shown that I can discuss my decisions in code development using documentation and support materials such as flow charts and code review videos.  I have designed, developed, and delivered professional documentation and coherent well commented Java program code that executes as intended and is developed in line with my enhancement plan and flow chart. I have included assessment documentation that demonstrates that I can communicate my intentions and outcomes with a varied audience and have conveyed my ideas clearly through written report (assessment), within code using header and inline comments, and visual and oral media using my recorded code review. I have evaluated computing solutions using code that was not compiling and working algorithmically, starting with a plan, creating a workflow diagram, and working through the code incrementally and testing as I developed moving to the next step only when the code was complete and operating as intended. I have demonstrated that I have the ability to us well-founded and innovative techniques by starting at the beginning and performing iterative testing while correcting existing issues and performing my enhancements. The code was developed using a development lifecycle by starting with investigating the problem (choosing and artifact), I created a well-documented plan of enhancement, then I performed a video code review, and developed the code iteratively while testing, and finally I commented the code and documented the outcomes in this assessment. I have shown that I can employ and develop a security mindset by including comments in my code, performing a code review, and removed unnecessary test cases, I have ensured that there are no unused variables or calculations, and I have ensured that all software and development environments have been updated and running current releases.
+
+
+[Link to Enhancement_2 Project](https://github.com/Erik-W775/Erik-W775.github.io/tree/main/Slide_Show_Enhancement2)
