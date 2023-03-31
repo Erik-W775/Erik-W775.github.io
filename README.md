@@ -34,7 +34,7 @@ Course Outcomes found in Enhancement 1: In this artifact enhancement, I employed
 ---
 
 ---
-![Image from Enhancement_2](/Slide_Show_Enhancement2/enhancement_2.jpg)
+![Image from Enhancement_2](Enhancement_2/enhancement_2.jpg)
 
 ### ***Artifact 2 Enhancement*** 
 
@@ -49,4 +49,26 @@ Enhancements: Updated Ide and integrated code, debugged slideshow functionality,
 Course Outcomes found in Enhancement 2: This artifact through enhancement and assessment shows that I have employed strategies for building a collaborative environment by incorporating in-line comments with sufficient insight into the intention of code. I have shown that I can discuss my decisions in code development using documentation and support materials such as flow charts and code review videos.  I have designed, developed, and delivered professional documentation and coherent well commented Java program code that executes as intended and is developed in line with my enhancement plan and flow chart. I have included assessment documentation that demonstrates that I can communicate my intentions and outcomes with a varied audience and have conveyed my ideas clearly through written report (assessment), within code using header and inline comments, and visual and oral media using my recorded code review. I have evaluated computing solutions using code that was not compiling and working algorithmically, starting with a plan, creating a workflow diagram, and working through the code incrementally and testing as I developed moving to the next step only when the code was complete and operating as intended. I have demonstrated that I have the ability to us well-founded and innovative techniques by starting at the beginning and performing iterative testing while correcting existing issues and performing my enhancements. The code was developed using a development lifecycle by starting with investigating the problem (choosing and artifact), I created a well-documented plan of enhancement, then I performed a video code review, and developed the code iteratively while testing, and finally I commented the code and documented the outcomes in this assessment. I have shown that I can employ and develop a security mindset by including comments in my code, performing a code review, and removed unnecessary test cases, I have ensured that there are no unused variables or calculations, and I have ensured that all software and development environments have been updated and running current releases.
 
 
-[Link to Enhancement_2 Project](https://github.com/Erik-W775/Erik-W775.github.io/tree/main/Slide_Show_Enhancement2)
+[Link to Enhancement_2 Project](https://github.com/Erik-W775/Erik-W775.github.io/tree/main/Enhancement_2)
+
+---
+![Image from Enhancement_3](Enhancement_2/enhancement_2.jpg)
+
+### ***Artifact 3 Enhancement*** 
+
+The artifact that I selected for this enhancement is from CS-250 Software Development Lifecycle that I took in April of 2020. The program was intended to scroll through multiple slides providing images of “wellness” vacation destinations as a first stage to building a website (website was not in the scope but described in the course prompt).
+
+---
+
+***Enhancement Outcome***
+
+Enhancements: Updated Ide and integrated code, debugged slideshow functionality, added button with functionality to link to websites or external links
+
+Course Outcomes found in Enhancement 3: The course objectives that I met with this enhancement are:
+Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science. This has been made evident by employing the use of creating a project enhancement plan, video code review, and artifact assessment. I have provided links to information regarding Orange and its documentation.Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database). This has been demonstrated by employing current open-source data mining software to evaluate a known dataset with intentions to evaluate it as a work applicable software that can provide insight into project outcomes and efficiency. I wanted to use previously unfamiliar software that is free and opensource to evaluate a dataset that I previously worked with using enterprise paid license software. This is important because I work in a small family business with a limited software budget that is allocated for day-to-day required software. The ability to use opensource software to evaluate our bidding reports and project financials to increase efficiency in bidding, project management, and lead to overall company profit. Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. This enhancement supports a security mindset by ensuring the software is up to date and works with computer operating system. Orange Data Mining has increased the security of their software be employing Virtual Environment for each project created using its python coding base. Orange Data Mining is open source and community supported this can lead to significant building of software support but can potentially be open for bugs. Updates are not automatic and require permission prior to installing so this can mitigate corrupted or untested software. I found several inaccuracies in the data both in the initial report and in the evaluation using Orange.  While learning data mining principles in DAT-220, I learned for the security of the information and one’s own credibility and a data scientist it is imperative to point out areas of possible inaccuracies in their data and interpretation of the data. In an effort to keep this assessment brief I have linked my original report which contains images and updated interpretations from my Orange date review
+
+
+[Video Documentation of Work Performed](https://app.screencast.com/bv6Q9E2apl9PA)
+
+[Link to Enhancement_3 Project](https://github.com/Erik-W775/Erik-W775.github.io/tree/main/Enhancement_2)
+
