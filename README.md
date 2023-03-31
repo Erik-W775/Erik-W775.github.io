@@ -52,7 +52,7 @@ Course Outcomes found in Enhancement 2: This artifact through enhancement and as
 [Link to Enhancement_2 Project](https://github.com/Erik-W775/Erik-W775.github.io/tree/main/Enhancement_2)
 
 ---
-![Image from Enhancement_3](Enhancement_2/enhancement_2.jpg)
+![Image from Enhancement_3](Enhancement_3/Orange_Project_Page.jpg)
 
 ### ***Artifact 3 Enhancement*** 
 
