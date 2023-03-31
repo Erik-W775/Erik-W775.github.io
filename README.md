@@ -70,5 +70,5 @@ Employ strategies for building collaborative environments that enable diverse au
 
 [Video Documentation of Work Performed](https://app.screencast.com/bv6Q9E2apl9PA)
 
-[Link to Enhancement_3 Project](https://github.com/Erik-W775/Erik-W775.github.io/tree/main/Enhancement_2)
+[Link to Enhancement_3 Project](https://github.com/Erik-W775/Erik-W775.github.io/tree/main/Enhancement_3)
 
