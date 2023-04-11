@@ -1,3 +1,5 @@
+![header image](/computer_science.jpg)
+
 # **Erik-W775.github.io**
 
 ---
